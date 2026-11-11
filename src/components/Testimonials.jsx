@@ -61,10 +61,6 @@ export default function Testimonials() {
             </li>
           ))}
         </ul>
-
-        <p className="mt-10 text-center text-sm text-mauve">
-          Ulasan contoh untuk keperluan demonstrasi.
-        </p>
       </div>
     </section>
   );
