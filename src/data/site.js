@@ -12,7 +12,7 @@ export const testimonials = [
     name: "Alya",
     emoji: "🐰",
     tone: "bg-pink",
-    text: "Aku beli Little Bunny buat kado sahabatku dan sampai sekarang selalu dipeluk terus. Bahannya super lembut dan wajahnya bener-bener gemas!",
+    text: "Aku beli Beigi Rabbit Doll buat kado sahabatku dan sampai sekarang selalu dipeluk terus. Bahannya super lembut dan wajahnya bener-bener gemas!",
   },
   {
     name: "Nabila",
@@ -24,6 +24,6 @@ export const testimonials = [
     name: "Celine",
     emoji: "🐥",
     tone: "bg-[#FFE9B8]",
-    text: "Knitted Duck pas sampai langsung bikin kamar jadi ceria. Sekarang lagi ngincer Mochi Cat buat nambah koleksi bonekaku!",
+    text: "Knitted Duck pas sampai langsung bikin kamar jadi ceria. Sekarang lagi ngincer Pinky Bear buat nambah koleksi bonekaku!",
   },
 ];
