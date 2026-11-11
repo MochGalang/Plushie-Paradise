@@ -9,19 +9,19 @@ export const navLinks = [
 
 export const testimonials = [
   {
-    name: "Alya",
+    name: "Marsya",
     emoji: "🐰",
     tone: "bg-pink",
     text: "Aku beli Beigi Rabbit Doll buat kado sahabatku dan sampai sekarang selalu dipeluk terus. Bahannya super lembut dan wajahnya bener-bener gemas!",
   },
   {
-    name: "Nabila",
+    name: "Caca",
     emoji: "🧸",
     tone: "bg-blush",
-    text: "Teddy Blossom sekarang nemenin di meja belajar, bikin suasana belajar jadi makin nyaman. Bener-bener teman kerja kecil paling manis.",
+    text: "Brownie Bear sekarang nemenin di meja belajar, bikin suasana belajar jadi makin nyaman. Bener-bener teman kerja kecil paling manis.",
   },
   {
-    name: "Celine",
+    name: "Felicia",
     emoji: "🐥",
     tone: "bg-[#FFE9B8]",
     text: "Knitted Duck pas sampai langsung bikin kamar jadi ceria. Sekarang lagi ngincer Pinky Bear buat nambah koleksi bonekaku!",
