@@ -24,6 +24,6 @@ export const testimonials = [
     name: "Celine",
     emoji: "🐥",
     tone: "bg-[#FFE9B8]",
-    text: "Dreamy Duck pas sampai langsung bikin kamar jadi ceria. Sekarang lagi ngincer Mochi Cat buat nambah koleksi bonekaku!",
+    text: "Knitted Duck pas sampai langsung bikin kamar jadi ceria. Sekarang lagi ngincer Mochi Cat buat nambah koleksi bonekaku!",
   },
 ];

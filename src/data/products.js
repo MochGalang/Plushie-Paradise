@@ -75,19 +75,19 @@ export const products = [
     perks: ["Bentuk bulat & squishy", "Telinga kecil warna pink", "Koleksi edisi terbatas"],
   },
   {
-    id: "dreamy-duck",
-    name: "Dreamy Duck",
+    id: "knitted-duck",
+    name: "Knitted Duck",
     price: 79000,
     category: "Boneka Bebek",
     tag: "Favorit Pelanggan",
     rating: 4.8,
     reviews: 113,
-    image: "/images/dreamy-duck.jpg",
+    image: "/images/knitted-duck.jpg",
     imagePosition: "50% 50%",
-    alt: "Dreamy Duck, boneka bebek kuning berbulu halus dengan paruh dan kaki oranye",
+    alt: "Knitted Duck, boneka rajut bebek kuning buatan tangan dengan topi rajut lucu dan pipi merona",
     description:
-      "Bulu kuning cerah, paruh oranye yang ceria, dan ekspresi yang selalu menggemaskan. Dreamy Duck membuat hari yang mendung jadi lebih ceria.",
-    perks: ["Bulu halus kuning cerah", "Paruh dan kaki oranye ceria", "Favorit semua orang"],
+      "Boneka rajut buatan tangan yang penuh kehangatan, dilengkapi topi rajut manis dan pipi merona. Knitted Duck hadir dengan rajutan rapi dan empuk, sempurna untuk teman pajangan meja maupun kado istimewa.",
+    perks: ["Rajutan tangan (handmade) rapi", "Dilengkapi topi rajut manis", "Bahan benang lembut & empuk"],
   },
 ];
 
