@@ -1,20 +1,5 @@
 export const products = [
   {
-    id: "teddy-blossom",
-    name: "Teddy Blossom",
-    price: 89000,
-    category: "Boneka Beruang",
-    tag: "Terlaris",
-    rating: 4.9,
-    reviews: 128,
-    image: "/images/teddy-blossom.jpg",
-    imagePosition: "50% 62%",
-    alt: "Teddy Blossom, boneka beruang cokelat muda berbusana garis dengan tempelan hati merah",
-    description:
-      "Boneka beruang kecil manis dengan hati di perutnya dan senyuman yang menghangatkan hati. Teddy Blossom cocok untuk teman tidur, sahabat di meja kerja, maupun hadiah penuh makna.",
-    perks: ["Bahan lembut & nyaman dipeluk", "Bordir tempelan hati", "Pilihan sempurna untuk boneka pertama"],
-  },
-  {
     id: "brown-teddy-bear",
     name: "Brownie Bear",
     price: 95000,
@@ -149,22 +134,6 @@ export const products = [
       "Karakter Kuromi yang imut dengan sentuhan gaya edgy-cute, lengkap dengan tudung hitam bertanduk dan logo tengkorak pink khasnya. Wajib dimiliki bagi penggemar setia Sanrio!",
     perks: ["Detail tudung tengkorak pink khas Kuromi", "Bahan bulu halus dan lembut", "Ukuran pas untuk teman peluk & traveling"],
   },
-  {
-    id: "cloudy-bear",
-    name: "Cloudy Bear",
-    price: 110000,
-    category: "Boneka Beruang",
-    tag: "Terbaru",
-    rating: 4.7,
-    reviews: 41,
-    image: "/images/cloudy-bear.jpg",
-    imagePosition: "22% 40%",
-    alt: "Cloudy Bear, boneka beruang putih lembut yang duduk dengan tangan terbuka",
-    description:
-      "Lembut bagaikan awan dan selalu penuh mimpi. Cloudy Bear duduk dengan tangan terbuka, selalu siap memberikan pelukan hangat kapan pun kamu butuhkan.",
-    perks: ["Warna putih selembut awan", "Pose peluk tangan terbuka", "Koleksi beruang terbaru kami"],
-  },
-
   {
     id: "knitted-duck",
     name: "Knitted Duck",
